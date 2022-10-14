@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrurachi, a computer engineering studient at Universidad Nacional de Colombia and a curious person prepared to learn anything.
 - 👀 I’m interested in coding, cryptos, tech and anything that works in binary code in general, but lately focused on web development (web 2.0 and web 3.0)
-- 🌱 I’m currently learning React.js for web development, Solitidy and and anything related to the Ethereum ecosystem. Trying to get deep in web 3.0
+- 🌱 I’m currently learning React.js for web development, Solitidy and anything related to the Ethereum ecosystem. Trying to get deep in web 3.0
 - 💞️ I’m looking to collaborate with any proyect that use code and new technologies as a way to find solutions for society modern problems and get experience in the process
 - 📫 You can find me on Twitter, Telegram and Discord as @AndruRachi. And you can find me in LinkedIn as Andrés D. Ramírez Chiquillo. 

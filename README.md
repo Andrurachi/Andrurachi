@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Andrurachi, a computer engineering studient at Universidad Nacional de Colombia
-- 👀 I’m interested in coding, tech and anything that works in binary code in general
-- 🌱 I’m currently learning React.js for web development, Solitidy and anything related to Web 3.0 ecosystem
-- 💞️ I’m looking to collaborate with any project that use code and new technologies as a way to find solutions for society modern problems and get experience in the process
-- 📫 You can find me on Twitter, Telegram and Discord as @AndruRachi, and you can find me in LinkedIn as Andrés R. Chiquillo. 
+👋 Hi, I’m @Andrurachi, a computer engineering student at Universidad Nacional de Colombia.
+👀 I’m interested in coding, tech, and anything related to binary code and technologies.
+🌱 I’m currently learning frameworks like React.js and Django for web development, and having fun with WebGL using Three.js. Additionally, I am experimenting with AI using Python.
+💞️ I’m looking to collaborate on projects that utilize code and new technologies to find solutions for modern societal problems and gain experience in the process.
+📫 You can find me on Twitter, Telegram, and Discord as @AndruRachi, and on LinkedIn as Andrés R. Chiquillo.

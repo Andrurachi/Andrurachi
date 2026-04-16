@@ -6,7 +6,7 @@ Dashboard for tracking my projects, learnings, and contributions to the Ethereum
 
 * #### [PR Journal](https://hackmd.io/@Wre4AEjBTny7MFhlY4ci4g/BymXjNukle)
 
-* #### [pETHit Project](https://hackmd.io/@Wre4AEjBTny7MFhlY4ci4g/Bynwl6vxWx)
+* #### [Projects](https://hackmd.io/@Andrurachi/SJD189R3Zl)
 
 * #### [Technical Articles](https://hackmd.io/@Andrurachi/Syv7F-zXZx)
 
